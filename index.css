@@ -1,0 +1,14 @@
+.special{
+    color: blue;
+    font-size: large;
+}
+table,
+th,
+tr,
+td,
+{
+    padding: 10px;
+    border-collapse:collapse;
+    
+
+}
